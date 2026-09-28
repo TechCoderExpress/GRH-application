@@ -1,5 +1,5 @@
 # GRH-application
-GRH application is a spring boot web application use it to manage employee holidays
+GRH application is a spring boot web application use it to manage employee vacations
 
 #Application architecture pattern I used in this application MVC model using thymeleaf and spring boot framework
 
